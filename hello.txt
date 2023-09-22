@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello git! This is my first git repo
 hello git!
 This is an old version of this file.
->>>>>>> first_commit
